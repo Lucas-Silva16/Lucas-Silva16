@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Silva</h1>
-<h3 align="center">Computer Engineering student passionate about programming and technology.</h3>
+<h3 align="center">Software Engineering and Computer Science student passionate about programming and technology.</h3>
 
 - 🔭 I’m currently working on **Completing my degree 🤖**
 
