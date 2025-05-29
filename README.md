@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lucas-Silva16?tab=repositories](https://github.com/Lucas-Silva16?tab=repositories)
 
-- 💬 Ask me about **System simulations, C++ projects, code organization**
-
 - ⚡ Fun fact **I have more ideas than time!**
 
 <h3 align="left">Connect with me:</h3>
