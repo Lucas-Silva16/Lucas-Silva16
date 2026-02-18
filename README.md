@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Silva</h1>
-<h3 align="center">Software Engineering and Computer Science student passionate about programming and technology.</h3>
+<h3 align="center">Engineering and Computer Science student passionate about programming and technology.</h3>
 
 - 🔭 I’m currently working on **Completing my degree 🤖**
-
-- 🌱 I’m currently learning **Advanced Python, C++, and Data Structures**
-
-- 👯 I’m looking to collaborate on **error: (still thinking...)**
-
-- 🤝 I’m looking for help with **Convincing my compiler that I know what I’m doing.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Lucas-Silva16?tab=repositories](https://github.com/Lucas-Silva16?tab=repositories)
-
-- ⚡ Fun fact **I have more ideas than time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
