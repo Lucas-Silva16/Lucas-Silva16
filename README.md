@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Silva</h1>
 <h3 align="center">Engineering and Computer Science student passionate about programming and technology.</h3>
 
-- 🔭 I’m currently working on **Completing my degree 🤖**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 
