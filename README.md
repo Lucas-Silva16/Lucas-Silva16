@@ -82,6 +82,16 @@ status:     Studying | Building | Exploring
 <sub><b>MySQL</b></sub>
 </td>
 </tr>
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br/>
+<sub><b>React</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/><br/>
+<sub><b>Tailwind CSS</b></sub>
+</td>
+</tr>
 </table>
 
 ### Areas of Interest
@@ -120,6 +130,7 @@ status:     Studying | Building | Exploring
 | [🔍 Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | Jogo 2D baseado no universo Sherlock Holmes, desenvolvido em ambiente GreenFoot | `Java` `GreenFoot` |
 | [🕵️ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Versão em terminal do jogo Sherlock Holmes, sem interface gráfica | `Java` |
 | [🌐 DBW – Web Project](https://github.com/Lucas-Silva16/DBW) | Projeto web desenvolvido ao longo do semestre no âmbito da cadeira de Desenvolvimento Baseado na Web | `HTML` `CSS` `JavaScript` |
+| 🔒 *Projeto em curso* | Projeto pessoal atualmente em desenvolvimento | `React` `Tailwind CSS` |
 
 ---
 
@@ -132,22 +143,6 @@ status:     Studying | Building | Exploring
 
 </div>
 
----
-
-## `> contact --open`
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/lucas-silva-a7a4aa39a/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)](mailto:lucassilva1606@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Lucas-Silva16)
-
-</div>
-
----
-
-<div align="center">
-<sub>
-<code>"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs</code>
-</sub>
 </div>
