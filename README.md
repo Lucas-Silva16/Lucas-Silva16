@@ -12,9 +12,9 @@
 ### `> whoami`
 
 **Lucas Silva** — Informatics Engineering Student @ University of Madeira  
-2nd Year | Networks · Cybersecurity · Data
+2nd Year | Computer Science & Engineering
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;Networks+%7C+Cybersecurity+%7C+Data;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;Building+projects+%7C+Learning+every+day;University+of+Madeira+%F0%9F%87%B5%F0%9F%87%B9)](https://git.io/typing-svg)
 
 </div>
 
@@ -84,7 +84,9 @@ status:     Studying | Building | Exploring
 </tr>
 </table>
 
-### Focus Areas
+### Areas of Interest
+
+> 🔭 Fields I'm exploring and plan to go deeper into
 
 ![Networks](https://img.shields.io/badge/Networks_%26_Architecture-0a0a0a?style=for-the-badge&logo=cisco&logoColor=00D9FF)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
@@ -136,8 +138,8 @@ status:     Studying | Building | Exploring
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/lucas-silva-b07b60336/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)](mailto:lucassilva1606@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Lucas-Silva16)
 
 </div>
@@ -146,6 +148,6 @@ status:     Studying | Building | Exploring
 
 <div align="center">
 <sub>
-<code>// Sempre a aprender. Sempre a construir.</code>
+<code>"The people who are crazy enough to think they can change the world are the ones who do." — Steve Jobs</code>
 </sub>
 </div>
