@@ -31,7 +31,7 @@ year:       2nd Year
 
 interests:
   - Network Architecture & Systems
-  - Cybersecurity & Ethical Hacking
+  - Cybersecurity
   - Data Science & Analysis
 
 status:     Studying | Building | Exploring
@@ -132,7 +132,7 @@ status:     Studying | Building | Exploring
 |---------|-------------|-------|
 | [🔍 Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | 2D puzzle/adventure game set in the Sherlock Holmes universe, built with the GreenFoot framework. Features custom sprites, an interactive game world and object-oriented design with Java classes. | `Java` `GreenFoot` |
 | [🕵️ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Text-based terminal remake of the Sherlock Holmes game — same logic and narrative, rebuilt entirely in Java without a graphical framework, running purely through CLI interaction. | `Java` |
-| [🌐 DBW – Web Project](https://github.com/Lucas-Silva16/DBW) | Full-semester web development project built across practical classes. Covers core frontend and backend concepts including HTML structure, CSS styling, JavaScript interactivity, and PHP server-side logic with a MySQL database. | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
+| [🌐 DBW – Web Project](https://github.com/Lucas-Silva16/DBW) | Full-semester web development project built across practical classes. Covers core frontend and backend concepts including HTML structure, CSS styling, JavaScript interactivity. | `HTML` `CSS` `JavaScript`|
 | 🔒 *Personal project — in development* | Personal project currently being built | `React` `Tailwind CSS` |
 
 ---
@@ -148,19 +148,7 @@ status:     Studying | Building | Exploring
 
 </div>
 
----
 
-## `> contact --open`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/lucas-silva-b07b60336/)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)](mailto:lucassilva1606@hotmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Lucas-Silva16)
-
-</div>
-
----
 
 <div align="center">
 <sub>
