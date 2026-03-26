@@ -115,25 +115,25 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [⚙️ Processador de 8 bits em VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Design e implementação de um processador básico de 8 bits com ALU, registos, PC e descodificador. Validado em FPGA Artix-7 (Nexys A7). UC: Arquitetura de Computadores | `VHDL` `Vivado` `FPGA` |
-| [🧰 Máquina de Lavar](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Simulação de uma máquina de lavar em hardware digital. UC: Sistemas Digitais | `Verilog` |
-| [🏧 Máquina MultiBanco](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Simulação de um sistema de multibanco em hardware digital. UC: Sistemas Digitais | `Verilog` |
+| [⚙️ Processador de 8 bits em VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Full design and implementation of a modular 8-bit processor. Includes ALU (arithmetic, logic & shift ops), general-purpose registers, Program Counter, instruction decoder (5-bit opcodes), and peripheral manager (PIN/POUT). Integrated with ROM (14-bit instructions) and RAM on an Artix-7 FPGA. Validated via testbench simulations covering arithmetic cycles, negative numbers, XOR logic, and RAM access with bit-shift counting. | `VHDL` `Vivado` `FPGA` |
+| [🧰 Máquina de Lavar](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Finite State Machine modelling the control logic of a washing machine — cycle selection, water levels, spin speed and timing — described and simulated at the hardware level. | `Verilog` |
+| [🏧 Máquina MultiBanco](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Hardware-level simulation of an ATM system using FSMs — models card authentication, PIN validation, balance checking and cash dispensing as digital logic. | `Verilog` |
 
 ### 🗂️ Data Structures & Algorithms
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🚍 Terminal Autocarro](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulação de uma rede de transporte de autocarros com gestão de passageiros e paragens. Estruturas utilizadas: **listas ligadas**, **filas de espera** e **árvores binárias**. UC: Estruturas de Dados e Algoritmos | `C++` |
-| [🍽️ Restaurante](https://github.com/Lucas-Silva16/Restaurante) | Gestão de um restaurante com filas de clientes, alocação de mesas e balcão. Estruturas utilizadas: **filas (queues)**, **listas ligadas** e **estruturas modulares**. UC: Estruturas de Dados e Algoritmos | `C++` |
+| [🚍 Terminal Autocarro](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulation of a point-to-point bus transport company (ExpressoEDA). Manages bus creation with driver and capacity, passenger queues per stop, automatic movement between stops, and admin operations like driver reassignment and ticket removal. Core data structures: **linked lists**, **queues** and **binary trees**. | `C++` |
+| [🍽️ Restaurante](https://github.com/Lucas-Silva16/Restaurante) | Restaurant management simulation controlling the full customer flow — entry queue, seating at counter or tables, capacity limits per area, and state tracking per customer. Implements **queues** for waiting lines, **linked lists** for customer management, and a modular structure split across dedicated source files. | `C++` |
 
 ### 🎮 Games & Web
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🔍 Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | Jogo 2D baseado no universo Sherlock Holmes, desenvolvido em ambiente GreenFoot | `Java` `GreenFoot` |
-| [🕵️ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Versão em terminal do jogo Sherlock Holmes, sem interface gráfica | `Java` |
-| [🌐 DBW – Web Project](https://github.com/Lucas-Silva16/DBW) | Projeto web desenvolvido ao longo do semestre no âmbito da cadeira de Desenvolvimento Baseado na Web | `HTML` `CSS` `JavaScript` |
-| 🔒 *Projeto em curso* | Projeto pessoal atualmente em desenvolvimento | `React` `Tailwind CSS` |
+| [🔍 Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | 2D puzzle/adventure game set in the Sherlock Holmes universe, built with the GreenFoot framework. Features custom sprites, an interactive game world and object-oriented design with Java classes. | `Java` `GreenFoot` |
+| [🕵️ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Text-based terminal remake of the Sherlock Holmes game — same logic and narrative, rebuilt entirely in Java without a graphical framework, running purely through CLI interaction. | `Java` |
+| [🌐 DBW – Web Project](https://github.com/Lucas-Silva16/DBW) | Full-semester web development project built across practical classes. Covers core frontend and backend concepts including HTML structure, CSS styling, JavaScript interactivity, and PHP server-side logic with a MySQL database. | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
+| 🔒 *Personal project — in development* | Personal project currently being built | `React` `Tailwind CSS` |
 
 ---
 
