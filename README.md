@@ -1,36 +1,151 @@
-<h1 align="center">Hi 👋, I'm Lucas Silva</h1>
+<div align="center">
 
-<p align="center">
-  <b>Undergraduate Student in Informatics Engineering 🎓</b><br>
-  <i>(Computer Science and Engineering)</i><br>
-  University of Madeira (UMa) | 📍 Portugal 🇵🇹
-</p>
+```
+██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗    ███████╗██╗██╗      ██╗   ██╗ █████╗
+██║     ██║   ██║██╔════╝██╔══██╗██╔════╝    ██╔════╝██║██║      ██║   ██║██╔══██╗
+██║     ██║   ██║██║     ███████║███████╗    ███████╗██║██║      ██║   ██║███████║
+██║     ██║   ██║██║     ██╔══██║╚════██║    ╚════██║██║██║      ╚██╗ ██╔╝██╔══██║
+███████╗╚██████╔╝╚██████╗██║  ██║███████║    ███████║██║███████╗  ╚████╔╝ ██║  ██║
+╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝    ╚══════╝╚═╝╚══════╝   ╚═══╝  ╚═╝  ╚═╝
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Informatics%20Student-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Software%20&%20Hardware-orange?style=flat-square" alt="Focus">
-</p>
+### `> whoami`
 
----
+**Lucas Silva** — Informatics Engineering Student @ University of Madeira  
+2nd Year | Networks · Cybersecurity · Data
 
-###  About Me
-I'm an **Informatics Engineering** student at the **University of Madeira (UMa)**. My academic journey is focused on Computer Science and Engineering, where I explore the balance between hardware architecture and software development. I'm passionate about building efficient solutions and constantly expanding my technical toolkit.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;Networks+%7C+Cybersecurity+%7C+Data;Always+learning%2C+always+building)](https://git.io/typing-svg)
 
-*  Pursuing a Degree in Informatics Engineering.
-*  Interested in software logic, systems architecture, and problem-solving.
-*  Based in Madeira, Portugal.
+</div>
 
 ---
 
-### 🛠 Languages I've learned so far (Don't dominate all of them):
+## `> about --verbose`
 
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-</p>
+```yaml
+name:       Lucas Silva
+location:   Madeira, Portugal 🇵🇹
+university: University of Madeira (UMa)
+course:     Informatics Engineering (BSc)
+year:       2nd Year
+
+interests:
+  - Network Architecture & Systems
+  - Cybersecurity & Ethical Hacking
+  - Data Science & Analysis
+
+status:     Studying | Building | Exploring
+```
+
+---
+
+## `> skills --list`
+
+<div align="center">
+
+### Languages
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/><br/>
+<sub><b>C++</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>
+<sub><b>Java</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>
+<sub><b>JavaScript</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br/>
+<sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br/>
+<sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/><br/>
+<sub><b>PHP</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>
+<sub><b>MySQL</b></sub>
+</td>
+</tr>
+</table>
+
+### Focus Areas
+
+![Networks](https://img.shields.io/badge/Networks_%26_Architecture-0a0a0a?style=for-the-badge&logo=cisco&logoColor=00D9FF)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Data](https://img.shields.io/badge/Data_Science-0a0a0a?style=for-the-badge&logo=databricks&logoColor=FF6B35)
+
+</div>
+
+---
+
+## `> ls ./projects`
+
+### 🖥️ Hardware & Architecture
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [⚙️ Processador de 8 bits em VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Design e implementação de um processador básico de 8 bits com ALU, registos, PC e descodificador. Validado em FPGA Artix-7 (Nexys A7). UC: Arquitetura de Computadores | `VHDL` `Vivado` `FPGA` |
+| [🧰 Máquina de Lavar](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Simulação de uma máquina de lavar em hardware digital. UC: Sistemas Digitais | `Verilog` |
+| [🏧 Máquina MultiBanco](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Simulação de um sistema de multibanco em hardware digital. UC: Sistemas Digitais | `Verilog` |
+
+### 🗂️ Data Structures & Algorithms
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🚍 Terminal Autocarro](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulação de uma rede de transporte de autocarros com gestão de passageiros e paragens. Estruturas utilizadas: **listas ligadas**, **filas de espera** e **árvores binárias**. UC: Estruturas de Dados e Algoritmos | `C++` |
+| [🍽️ Restaurante](https://github.com/Lucas-Silva16/Restaurante) | Gestão de um restaurante com filas de clientes, alocação de mesas e balcão. Estruturas utilizadas: **filas (queues)**, **listas ligadas** e **estruturas modulares**. UC: Estruturas de Dados e Algoritmos | `C++` |
+
+### 🎮 Games & Web
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🔍 Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | Jogo 2D baseado no universo Sherlock Holmes, desenvolvido em ambiente GreenFoot | `Java` `GreenFoot` |
+| [🕵️ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Versão em terminal do jogo Sherlock Holmes, sem interface gráfica | `Java` |
+| [🌐 DBW – Web Project](https://github.com/Lucas-Silva16/DBW) | Projeto web desenvolvido ao longo do semestre no âmbito da cadeira de Desenvolvimento Baseado na Web | `HTML` `CSS` `JavaScript` |
+
+---
+
+## `> git log --stats`
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Silva16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Silva16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## `> contact --open`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Lucas-Silva16)
+
+</div>
+
+---
+
+<div align="center">
+<sub>
+<code>// Sempre a aprender. Sempre a construir.</code>
+</sub>
+</div>
