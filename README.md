@@ -43,7 +43,7 @@ status:     Studying | Building | Exploring
 
 <div align="center">
 
-### Languages
+### Technologies I've Worked With
 
 <table>
 <tr>
@@ -52,19 +52,9 @@ status:     Studying | Building | Exploring
 <sub><b>C++</b></sub>
 </td>
 <td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>
-<sub><b>Java</b></sub>
-</td>
-<td align="center" width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/><br/>
 <sub><b>JavaScript</b></sub>
 </td>
-</tr>
-<tr>
 <td align="center" width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br/>
 <sub><b>HTML5</b></sub>
@@ -81,8 +71,6 @@ status:     Studying | Building | Exploring
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/><br/>
 <sub><b>MySQL</b></sub>
 </td>
-</tr>
-<tr>
 <td align="center" width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br/>
 <sub><b>React</b></sub>
@@ -90,6 +78,21 @@ status:     Studying | Building | Exploring
 <td align="center" width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/><br/>
 <sub><b>Tailwind CSS</b></sub>
+</td>
+</tr>
+</table>
+
+### Technologies I Feel Comfortable With
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br/>
+<sub><b>Python</b></sub>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>
+<sub><b>Java</b></sub>
 </td>
 </tr>
 </table>
@@ -138,11 +141,29 @@ status:     Studying | Building | Exploring
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Silva16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Silva16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lucas-Silva16&theme=github_dark)](https://github.com/Lucas-Silva16)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lucas-Silva16&theme=github_dark)](https://github.com/Lucas-Silva16)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lucas-Silva16&theme=github_dark)](https://github.com/Lucas-Silva16)
 
 </div>
 
+---
+
+## `> contact --open`
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/lucas-silva-b07b60336/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)](mailto:lucassilva1606@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Lucas-Silva16)
+
+</div>
+
+---
+
+<div align="center">
+<sub>
+<code>"Aura + Ego" - The Rizzler</code>
+</sub>
 </div>
