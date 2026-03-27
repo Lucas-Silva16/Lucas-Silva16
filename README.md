@@ -115,16 +115,16 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [⚙️ Processador de 8 bits em VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Full design and implementation of a modular 8-bit processor. Includes ALU (arithmetic, logic & shift ops), general-purpose registers, Program Counter, instruction decoder (5-bit opcodes), and peripheral manager (PIN/POUT). Integrated with ROM (14-bit instructions) and RAM on an Artix-7 FPGA. Validated via testbench simulations covering arithmetic cycles, negative numbers, XOR logic, and RAM access with bit-shift counting. | `VHDL` `Vivado` `FPGA` |
-| [🧰 Máquina de Lavar](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Finite State Machine modelling the control logic of a washing machine — cycle selection, water levels, spin speed and timing — described and simulated at the hardware level. | `Verilog` |
-| [🏧 Máquina MultiBanco](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Hardware-level simulation of an ATM system using FSMs — models card authentication, PIN validation, balance checking and cash dispensing as digital logic. | `Verilog` |
+| [⚙️ 8 Bit Processor in VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Full design and implementation of a modular 8-bit processor. Includes ALU (arithmetic, logic & shift ops), general-purpose registers, Program Counter, instruction decoder (5-bit opcodes), and peripheral manager (PIN/POUT). Integrated with ROM (14-bit instructions) and RAM on an Artix-7 FPGA. Validated via testbench simulations covering arithmetic cycles, negative numbers, XOR logic, and RAM access with bit-shift counting. | `VHDL` `Vivado` `FPGA` |
+| [🧰 Washing Machine](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Finite State Machine modelling the control logic of a washing machine — cycle selection, water levels, spin speed and timing — described and simulated at the hardware level. | `Verilog` |
+| [🏧 ATM Machine ](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Hardware-level simulation of an ATM system using FSMs — models card authentication, PIN validation, balance checking and cash dispensing as digital logic. | `Verilog` |
 
 ### 🗂️ Data Structures & Algorithms
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🚍 Terminal Autocarro](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulation of a point-to-point bus transport company (ExpressoEDA). Manages bus creation with driver and capacity, passenger queues per stop, automatic movement between stops, and admin operations like driver reassignment and ticket removal. Core data structures: **linked lists**, **queues** and **binary trees**. | `C++` |
-| [🍽️ Restaurante](https://github.com/Lucas-Silva16/Restaurante) | Restaurant management simulation controlling the full customer flow — entry queue, seating at counter or tables, capacity limits per area, and state tracking per customer. Implements **queues** for waiting lines, **linked lists** for customer management, and a modular structure split across dedicated source files. | `C++` |
+| [🚍 Bus Terminal](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulation of a point-to-point bus transport company (ExpressoEDA). Manages bus creation with driver and capacity, passenger queues per stop, automatic movement between stops, and admin operations like driver reassignment and ticket removal. Core data structures: **linked lists**, **queues** and **binary trees**. | `C++` |
+| [🍽️ Restaurant](https://github.com/Lucas-Silva16/Restaurante) | Restaurant management simulation controlling the full customer flow — entry queue, seating at counter or tables, capacity limits per area, and state tracking per customer. Implements **queues** for waiting lines, **linked lists** for customer management, and a modular structure split across dedicated source files. | `C++` |
 
 ### 🎮 Games & Web
 
