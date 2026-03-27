@@ -31,7 +31,7 @@ year:       2nd Year
 
 interests:
   - Network Architecture & Systems
-  - Cybersecurity
+  - Cybersecurity & Ethical Hacking
   - Data Science & Analysis
 
 status:     Studying | Building | Exploring
@@ -115,16 +115,16 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [⚙️ 8-bit-Processor-in-VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Full design and implementation of a modular 8-bit processor. Includes ALU (arithmetic, logic & shift ops), general-purpose registers, Program Counter, instruction decoder (5-bit opcodes), and peripheral manager (PIN/POUT). Integrated with ROM (14-bit instructions) and RAM on an Artix-7 FPGA. Validated via testbench simulations covering arithmetic cycles, negative numbers, XOR logic, and RAM access with bit-shift counting. | `VHDL` `Vivado` `FPGA` |
-| [🧰 Washing-Machine](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Finite State Machine modelling the control logic of a washing machine — cycle selection, water levels, spin speed and timing — described and simulated at the hardware level. | `Verilog` |
-| [🏧 Cash-machine](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Hardware-level simulation of an ATM system using FSMs — models card authentication, PIN validation, balance checking and cash dispensing as digital logic. | `Verilog` |
+| [⚙️ Processador de 8 bits em VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Full design and implementation of a modular 8-bit processor. Includes ALU (arithmetic, logic & shift ops), general-purpose registers, Program Counter, instruction decoder (5-bit opcodes), and peripheral manager (PIN/POUT). Integrated with ROM (14-bit instructions) and RAM on an Artix-7 FPGA. Validated via testbench simulations covering arithmetic cycles, negative numbers, XOR logic, and RAM access with bit-shift counting. | `VHDL` `Vivado` `FPGA` |
+| [🧰 Máquina de Lavar](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Finite State Machine modelling the control logic of a washing machine — cycle selection, water levels, spin speed and timing — described and simulated at the hardware level. | `Verilog` |
+| [🏧 Máquina MultiBanco](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Hardware-level simulation of an ATM system using FSMs — models card authentication, PIN validation, balance checking and cash dispensing as digital logic. | `Verilog` |
 
 ### 🗂️ Data Structures & Algorithms
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🚍 Bus-terminal](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulation of a point-to-point bus transport company (ExpressoEDA). Manages bus creation with driver and capacity, passenger queues per stop, automatic movement between stops, and admin operations like driver reassignment and ticket removal. Core data structures: **linked lists**, **queues** and **binary trees**. | `C++` |
-| [🍽️ Restaurant](https://github.com/Lucas-Silva16/Restaurante) | Restaurant management simulation controlling the full customer flow — entry queue, seating at counter or tables, capacity limits per area, and state tracking per customer. Implements **queues** for waiting lines, **linked lists** for customer management, and a modular structure split across dedicated source files. | `C++` |
+| [🚍 Terminal Autocarro](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulation of a point-to-point bus transport company (ExpressoEDA). Manages bus creation with driver and capacity, passenger queues per stop, automatic movement between stops, and admin operations like driver reassignment and ticket removal. Core data structures: **linked lists**, **queues** and **binary trees**. | `C++` |
+| [🍽️ Restaurante](https://github.com/Lucas-Silva16/Restaurante) | Restaurant management simulation controlling the full customer flow — entry queue, seating at counter or tables, capacity limits per area, and state tracking per customer. Implements **queues** for waiting lines, **linked lists** for customer management, and a modular structure split across dedicated source files. | `C++` |
 
 ### 🎮 Games & Web
 
@@ -132,8 +132,7 @@ status:     Studying | Building | Exploring
 |---------|-------------|-------|
 | [🔍 Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | 2D puzzle/adventure game set in the Sherlock Holmes universe, built with the GreenFoot framework. Features custom sprites, an interactive game world and object-oriented design with Java classes. | `Java` `GreenFoot` |
 | [🕵️ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Text-based terminal remake of the Sherlock Holmes game — same logic and narrative, rebuilt entirely in Java without a graphical framework, running purely through CLI interaction. | `Java` |
-| [❓  Mystery-Number-Game](https://github.com/Lucas-Silva16/Mystery-Number-Game) | A lightweight terminal-based guessing game where players deduce a random integer (0-20) within 3 strict attempts, utilizing higher/lower feedback and basic binary search logic. | `Python` |
-| [🌐 DBW – Web Project](https://github.com/Lucas-Silva16/DBW) | Full-semester web development project built across practical classes. Covers core frontend and backend concepts including HTML structure, CSS styling, JavaScript interactivity. | `HTML` `CSS` `JavaScript`|
+| [🌐 DBW – Web Project](https://github.com/Lucas-Silva16/DBW) | Full-semester web development project built across practical classes. Covers core frontend and backend concepts including HTML structure, CSS styling, JavaScript interactivity, and PHP server-side logic with a MySQL database. | `HTML` `CSS` `JavaScript` `PHP` `MySQL` |
 | 🔒 *Personal project — in development* | Personal project currently being built | `React` `Tailwind CSS` |
 
 ---
@@ -149,10 +148,27 @@ status:     Studying | Building | Exploring
 
 </div>
 
+---
 
+## `> contact --open`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/lucas-silva-b07b60336/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=microsoftoutlook&logoColor=0078D4)](mailto:lucassilva1606@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Lucas-Silva16)
+
+</div>
+
+---
 
 <div align="center">
 <sub>
 <code>"Aura + Ego" - The Rizzler</code>
 </sub>
+
+<br/>
+
+<img src="https://i1.sndcdn.com/artworks-w4PvArKB7h6hzLou-qNnn7g-t500x500.jpg" width="120" alt="The Rizzler" style="border-radius: 8px; margin-top: 8px;" />
+
 </div>
