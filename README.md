@@ -150,10 +150,6 @@ status:     Studying | Building | Exploring
 
 ---
 
-
-
----
-
 <div align="center">
 <sub>
 <code>"Aura + Ego" - The Rizzler</code>
