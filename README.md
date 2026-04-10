@@ -115,6 +115,7 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🔒 *Personal project — in development* | Personal project currently being built | `Assembly` |
 | [⚙️ 8 Bit Processor in VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Full design and implementation of a modular 8-bit processor. Includes ALU (arithmetic, logic & shift ops), general-purpose registers, Program Counter, instruction decoder (5-bit opcodes), and peripheral manager (PIN/POUT). Integrated with ROM (14-bit instructions) and RAM on an Artix-7 FPGA. Validated via testbench simulations covering arithmetic cycles, negative numbers, XOR logic, and RAM access with bit-shift counting. | `VHDL` `Vivado` `FPGA` |
 | [🧰 Washing Machine](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Finite State Machine modelling the control logic of a washing machine — cycle selection, water levels, spin speed and timing — described and simulated at the hardware level. | `Verilog` |
 | [🏧 ATM Machine ](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Hardware-level simulation of an ATM system using FSMs — models card authentication, PIN validation, balance checking and cash dispensing as digital logic. | `Verilog` |
