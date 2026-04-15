@@ -133,7 +133,6 @@ status:     Studying | Building | Exploring
 |---------|-------------|-------|
 | [🔍 Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | 2D puzzle/adventure game set in the Sherlock Holmes universe, built with the GreenFoot framework. Features custom sprites, an interactive game world and object-oriented design with Java classes. | `Java` `GreenFoot` |
 | [🕵️ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Text-based terminal remake of the Sherlock Holmes game — same logic and narrative, rebuilt entirely in Java without a graphical framework, running purely through CLI interaction. | `Java` |
-| [🌐 DBW – Web Project](https://github.com/Lucas-Silva16/DBW) | Full-semester web development project built across practical classes. Covers core frontend and backend concepts including HTML structure, CSS styling, JavaScript interactivity, and PHP server-side logic with a MySQL database. | `HTML` `CSS` `JavaScript` |
 | [🎲 Mystery-Number-Game](https://github.com/Lucas-Silva16/Mystery-Number-Game) | A lightweight terminal-based guessing game where players deduce a random integer (0-20) within 3 strict attempts, utilizing higher/lower feedback and basic binary search logic. | `Python` |
 | 🔒 *Personal project — in development* | Personal project currently being built | `React` `Tailwind CSS` |
 
