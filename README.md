@@ -32,7 +32,7 @@ year:       2nd Year
 interests:
   - Network Architecture & Systems
   - Cybersecurity
-  - Data Science & Analysis
+  - Ubiquitous systems and iot
 
 status:     Studying | Building | Exploring
 ```
@@ -102,8 +102,8 @@ status:     Studying | Building | Exploring
 > 🔭 Fields I'm exploring and plan to go deeper into
 
 ![Networks](https://img.shields.io/badge/Networks_%26_Architecture-0a0a0a?style=for-the-badge&logo=cisco&logoColor=00D9FF)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0a0a?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Data](https://img.shields.io/badge/Data_Science-0a0a0a?style=for-the-badge&logo=databricks&logoColor=FF6B35)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0a0a?style=for-the-badge&logo=shieldsdotio&logoColor=9FEF00)
+![Ubiquitous systems and iot](https://img.shields.io/badge/Ubiquitous_Systems_%26_IoT-0a0a0a?style=for-the-badge&logo=arduino&logoColor=00979D)
 
 </div>
 
