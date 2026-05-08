@@ -136,6 +136,13 @@ status:     Studying | Building | Exploring
 | [🎲 Mystery-Number-Game](https://github.com/Lucas-Silva16/Mystery-Number-Game) | A lightweight terminal-based guessing game where players deduce a random integer (0-20) within 3 strict attempts, utilizing higher/lower feedback and basic binary search logic. | `Python` |
 | 🔒 *Personal project — in development* | Personal project currently being built | `React` `Tailwind CSS` |
 
+
+### 📡 ESP32 & IoT
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🔌 ESP32 Projects](https://github.com/Lucas-Silva16/ESP32-PROJECTS) | A growing collection of ESP32 projects built while learning embedded systems and IoT development. Each project includes a breadboard wiring photo, a YouTube demo, and fully commented source code. Built using the **Freenove ESP32-WROVER Ultimate Starter Kit** . | `C` `Arduino IDE` |
+
 ---
 
 ## `> git log --stats`
