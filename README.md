@@ -127,13 +127,18 @@ status:     Studying | Building | Exploring
 | [🚍 Bus Terminal](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulation of a point-to-point bus transport company (ExpressoEDA). Manages bus creation with driver and capacity, passenger queues per stop, automatic movement between stops, and admin operations like driver reassignment and ticket removal. Core data structures: **linked lists**, **queues** and **binary trees**. | `C++` |
 | [🍽️ Restaurant](https://github.com/Lucas-Silva16/Restaurante) | Restaurant management simulation controlling the full customer flow — entry queue, seating at counter or tables, capacity limits per area, and state tracking per customer. Implements **queues** for waiting lines, **linked lists** for customer management, and a modular structure split across dedicated source files. | `C++` |
 
-### 🎮 Games & Web
+### 🎮 Games
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [🔍 Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | 2D puzzle/adventure game set in the Sherlock Holmes universe, built with the GreenFoot framework. Features custom sprites, an interactive game world and object-oriented design with Java classes. | `Java` `GreenFoot` |
 | [🕵️ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Text-based terminal remake of the Sherlock Holmes game — same logic and narrative, rebuilt entirely in Java without a graphical framework, running purely through CLI interaction. | `Java` |
 | [🎲 Mystery-Number-Game](https://github.com/Lucas-Silva16/Mystery-Number-Game) | A lightweight terminal-based guessing game where players deduce a random integer (0-20) within 3 strict attempts, utilizing higher/lower feedback and basic binary search logic. | `Python` |
+
+### 🌐 Web
+
+| Project | Description | Stack |
+|---------|-------------|-------|
 | 🔒 *Personal project — in development* | Personal project currently being built | `React` `Tailwind CSS` |
 
 
