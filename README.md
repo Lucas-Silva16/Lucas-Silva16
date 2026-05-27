@@ -140,7 +140,7 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔒 *Personal project — in development* | Personal project currently being built | `React` `Tailwind CSS` |
+| [🦎 Chameleon Hunt](https://github.com/Lucas-Silva16/Chameleon-Game) |Word puzzle web game where players find hidden sub-words inside a larger word before the timer runs out — features global ranking, multiplayer lobbies, and a personal dashboard with stats and charts. | `React` `Node.js` `Express` `MongoDB` `Socket.io` `Tailwind CSS` |
 
 
 ### 📡 ESP32 & IoT
