@@ -141,6 +141,7 @@ status:     Studying | Building | Exploring
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [🔌 ESP32 Projects](https://github.com/Lucas-Silva16/ESP32-PROJECTS) | A growing collection of ESP32 projects built while learning embedded systems and IoT development. Each project includes a breadboard wiring photo, a YouTube demo, and fully commented source code. Built using the **Freenove ESP32-WROVER Ultimate Starter Kit**. | `C` `Arduino IDE` |
+| [ Quizz Game](https://github.com/Lucas-Silva16/Quiz-Game) | A *Who Wants to Be a Millionaire?* style quiz game running on an ESP32. Features a 9-second countdown timer, multiple-choice input via physical buttons, real-time LCD feedback, and buzzer melodies for win/loss states. A reimplementation of a [university project](https://github.com/Lucas-Silva16/JOKER), rebuilt with fewer components and cleaner code.  | `C` `Arduino IDE` |
 
 ---
 
