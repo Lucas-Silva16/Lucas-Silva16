@@ -140,7 +140,7 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🔌 ESP32 Projects](https://github.com/Lucas-Silva16/ESP32-PROJECTS) | A growing collection of ESP32 projects built while learning embedded systems and IoT development. Each project includes a breadboard wiring photo, a YouTube demo, and fully commented source code. Built using the **Freenove ESP32-WROVER Ultimate Starter Kit**. | `C` `Arduino IDE` |
+| [ ESP32 Projects](https://github.com/Lucas-Silva16/ESP32-PROJECTS) | A growing collection of ESP32 projects built while learning embedded systems and IoT development. Each project includes a breadboard wiring photo, a YouTube demo, and fully commented source code. Built using the **Freenove ESP32-WROVER Ultimate Starter Kit**. | `C` `Arduino IDE` |
 | [ Quizz Game](https://github.com/Lucas-Silva16/Quiz-Game) | A *Who Wants to Be a Millionaire?* style quiz game running on an ESP32. Features a 9-second countdown timer, multiple-choice input via physical buttons, real-time LCD feedback, and buzzer melodies for win/loss states. A reimplementation of a [university project](https://github.com/Lucas-Silva16/JOKER), rebuilt with fewer components and cleaner code.  | `C` `Arduino IDE` |
 
 ---
@@ -149,11 +149,11 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🎰 Joker Game](https://github.com/Lucas-Silva16/JOKER) | Design and implementation of a knowledge quiz management system in embedded C for the 8051 microcontroller. The project features a state machine architecture with four interrupt service routines (ISRs) communicating through shared flag variables, ensuring race-condition-free control flow. Includes a hardware-interfaced countdown timer using Timer 1 at 50 ms resolution, a 1 kHz buzzer square wave generated via Timer 0 toggles, and BCD-multiplexed 7-segment display output over a single port. The system manages eight difficulty levels with a joker-based penalty engine, timeout detection, and victory sequencing, all verified on physical hardware with oscilloscope timing validation. | `C` |
-| [⚙️ Canteen Manager](https://github.com/Lucas-Silva16/GESTOR-PEDIDOS-CANTINA) | Design and implementation of an Integrated Management System in low-level Assembly. The project features a structured RAM database, utilizing dynamic pointer calculations (offsets) to navigate custom memory structs (Users and Orders). Includes memory compaction algorithms ("Shift Left") for record deletion, Hex-to-ASCII arithmetic conversion, and data pagination. The system interfaces directly with hardware via Memory-Mapped I/O, handling an LCD display and physical inputs via polling, while integrating a full authentication system with active Buffer Overflow protection and session privilege management. | `Assembly` |
-| [⚙️ 8 Bit Processor in VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Full design and implementation of a modular 8-bit processor. Includes ALU (arithmetic, logic & shift ops), general-purpose registers, Program Counter, instruction decoder (5-bit opcodes), and peripheral manager (PIN/POUT). Integrated with ROM (14-bit instructions) and RAM on an Artix-7 FPGA. Validated via testbench simulations covering arithmetic cycles, negative numbers, XOR logic, and RAM access with bit-shift counting. | `VHDL` `Vivado` `FPGA` |
-| [🧰 Washing Machine](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Finite State Machine modelling the control logic of a washing machine — cycle selection, water levels, spin speed and timing — described and simulated at the hardware level. | `Verilog` |
-| [🏧 ATM Machine](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Hardware-level simulation of an ATM system using FSMs — models card authentication, PIN validation, balance checking and cash dispensing as digital logic. | `Verilog` |
+| [ Joker Game](https://github.com/Lucas-Silva16/JOKER) | Design and implementation of a knowledge quiz management system in embedded C for the 8051 microcontroller. The project features a state machine architecture with four interrupt service routines (ISRs) communicating through shared flag variables, ensuring race-condition-free control flow. Includes a hardware-interfaced countdown timer using Timer 1 at 50 ms resolution, a 1 kHz buzzer square wave generated via Timer 0 toggles, and BCD-multiplexed 7-segment display output over a single port. The system manages eight difficulty levels with a joker-based penalty engine, timeout detection, and victory sequencing, all verified on physical hardware with oscilloscope timing validation. | `C` |
+| [ Canteen Manager](https://github.com/Lucas-Silva16/GESTOR-PEDIDOS-CANTINA) | Design and implementation of an Integrated Management System in low-level Assembly. The project features a structured RAM database, utilizing dynamic pointer calculations (offsets) to navigate custom memory structs (Users and Orders). Includes memory compaction algorithms ("Shift Left") for record deletion, Hex-to-ASCII arithmetic conversion, and data pagination. The system interfaces directly with hardware via Memory-Mapped I/O, handling an LCD display and physical inputs via polling, while integrating a full authentication system with active Buffer Overflow protection and session privilege management. | `Assembly` |
+| [ 8 Bit Processor in VHDL](https://github.com/Lucas-Silva16/Processador-de-8-bits-em-VHDL) | Full design and implementation of a modular 8-bit processor. Includes ALU (arithmetic, logic & shift ops), general-purpose registers, Program Counter, instruction decoder (5-bit opcodes), and peripheral manager (PIN/POUT). Integrated with ROM (14-bit instructions) and RAM on an Artix-7 FPGA. Validated via testbench simulations covering arithmetic cycles, negative numbers, XOR logic, and RAM access with bit-shift counting. | `VHDL` `Vivado` `FPGA` |
+| [ Washing Machine](https://github.com/Lucas-Silva16/Maquina-de-Lavar) | Finite State Machine modelling the control logic of a washing machine — cycle selection, water levels, spin speed and timing — described and simulated at the hardware level. | `Verilog` |
+| [ ATM Machine](https://github.com/Lucas-Silva16/Maquina-MultiBanco) | Hardware-level simulation of an ATM system using FSMs — models card authentication, PIN validation, balance checking and cash dispensing as digital logic. | `Verilog` |
 
 ---
 
@@ -161,7 +161,7 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🦎 Chameleon Hunt](https://github.com/Lucas-Silva16/Chameleon-Game) | Word puzzle web game where players find hidden sub-words inside a larger word before the timer runs out — features global ranking, multiplayer lobbies, and a personal dashboard with stats and charts. | `React` `Node.js` `Express` `MongoDB` `Socket.io` `Tailwind CSS` |
+| [ Chameleon Hunt](https://github.com/Lucas-Silva16/Chameleon-Game) | Word puzzle web game where players find hidden sub-words inside a larger word before the timer runs out — features global ranking, multiplayer lobbies, and a personal dashboard with stats and charts. | `React` `Node.js` `Express` `MongoDB` `Socket.io` `Tailwind CSS` |
 
 ---
 
@@ -169,9 +169,9 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🕵️ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Text-based terminal remake of the Sherlock Holmes game — same logic and narrative, rebuilt entirely in Java without a graphical framework, running purely through CLI interaction. | `Java` |
-| [🔍 Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | 2D puzzle/adventure game set in the Sherlock Holmes universe, built with the GreenFoot framework. Features custom sprites, an interactive game world and object-oriented design with Java classes. | `Java` `GreenFoot` |
-| [🎲 Mystery-Number-Game](https://github.com/Lucas-Silva16/Mystery-Number-Game) | A lightweight terminal-based guessing game where players deduce a random integer (0-20) within 3 strict attempts, utilizing higher/lower feedback and basic binary search logic. | `Python` |
+| [ Sherlock Holmes – Terminal](https://github.com/Lucas-Silva16/Sherlock-Holmes-Terminal-Game-Java) | Text-based terminal remake of the Sherlock Holmes game — same logic and narrative, rebuilt entirely in Java without a graphical framework, running purely through CLI interaction. | `Java` |
+| [ Sherlock Holmes – GreenFoot](https://github.com/Lucas-Silva16/Jogo-Sherlock-Holmes-GreenFoot) | 2D puzzle/adventure game set in the Sherlock Holmes universe, built with the GreenFoot framework. Features custom sprites, an interactive game world and object-oriented design with Java classes. | `Java` `GreenFoot` |
+| [ Mystery-Number-Game](https://github.com/Lucas-Silva16/Mystery-Number-Game) | A lightweight terminal-based guessing game where players deduce a random integer (0-20) within 3 strict attempts, utilizing higher/lower feedback and basic binary search logic. | `Python` |
 
 ---
 
@@ -179,8 +179,8 @@ status:     Studying | Building | Exploring
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [🚍 Bus Terminal](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulation of a point-to-point bus transport company (ExpressoEDA). Manages bus creation with driver and capacity, passenger queues per stop, automatic movement between stops, and admin operations like driver reassignment and ticket removal. Core data structures: **linked lists**, **queues** and **binary trees**. | `C++` |
-| [🍽️ Restaurant](https://github.com/Lucas-Silva16/Restaurante) | Restaurant management simulation controlling the full customer flow — entry queue, seating at counter or tables, capacity limits per area, and state tracking per customer. Implements **queues** for waiting lines, **linked lists** for customer management, and a modular structure split across dedicated source files. | `C++` |
+| [ Bus Terminal](https://github.com/Lucas-Silva16/Terminal-Autocarro) | Simulation of a point-to-point bus transport company (ExpressoEDA). Manages bus creation with driver and capacity, passenger queues per stop, automatic movement between stops, and admin operations like driver reassignment and ticket removal. Core data structures: **linked lists**, **queues** and **binary trees**. | `C++` |
+| [ Restaurant](https://github.com/Lucas-Silva16/Restaurante) | Restaurant management simulation controlling the full customer flow — entry queue, seating at counter or tables, capacity limits per area, and state tracking per customer. Implements **queues** for waiting lines, **linked lists** for customer management, and a modular structure split across dedicated source files. | `C++` |
 
 ---
 
