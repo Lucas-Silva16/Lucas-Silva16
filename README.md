@@ -132,7 +132,7 @@ status:     Studying | Building | Exploring
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [🖧 NetWorks Project](https://github.com/FGouveia7/Projeto-de-Redes) | Full design and implementation of a distributed enterprise network across two geographic locations (Aveiro and Covilhã) for the Computer Networks and Data Communication course. Phase 1 covers VLSM subnetting with 6 VLANs per site and physical topology in Cisco Packet Tracer. Phase 2 covers complete infrastructure configuration: Router-on-a-Stick inter-VLAN routing, DHCP/DNS/HTTP/NTP servers, 802.1Q trunking, LACP EtherChannel, RIPv2 dynamic routing, NAT Overload (PAT), SSH hardening, and Spanning Tree — with full connectivity validated via ping, traceroute, and NAT translation tables. | `Packet Tracer` |
-| [Small EnterPrise NetworkLab](https://github.com/Lucas-Silva16/enterprise-network-lab) | | `Packet Tracer` |
+| [Small EnterPrise NetworkLab](https://github.com/Lucas-Silva16/enterprise-network-lab) | A complete enterprise network simulation built in Cisco Packet Tracer after completing the Cisco Networking Basics course. The project covers a 3-floor office building with separate VLANs, a centralized Server Room and the owner's home — all interconnected using RIPv2, NAT Overloading and Router-on-a-Stick. Includes VLSM subnetting, DHCP relay, DNS, NTP, Web, Email and FTP server, and secure remote access via SSH from the owner's PC to all network devices. | `Packet Tracer` |
 
 ---
 
